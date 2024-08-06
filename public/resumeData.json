@@ -1,0 +1,88 @@
+{
+    "main": {
+      "firstName": "Gaurav",
+      "name": "Gaurav Upadhyay",
+      "occupation": "Full Stack Developer",
+      "description": "Developer by day, cp enthusiast by night",
+      "image": "gaurav.jpg",
+      "bio": "My name is Gaurav, I'm a Full stack developer and CP enthusiast. I was born and raised in Uttar Pradesh and currently i am pursuing my BTech in Computer Science degree IIITDM Jabalpur,Madhya Pradesh with overall 8.3 cpi.",
+      "contactmessage": "Get in touch with me to receive further details.",
+      "email": "upadhyaygaurav450@gmail.com",
+      "address": {
+        "city": "Jabalpur",
+        "state": "MadhyaPradesh"
+      },
+      "website": "https://teamtreehouse.com/geraldtorres",
+      "resumedownload": "https://drive.google.com/file/d/1mj_0X-U7LaYANAP-u7Hbmbxqb-xfNzce/view?usp=drive_link",
+      "social": [
+       
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/gaurav-upadhyay-489665256/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/grvup",
+          "className": "fa fa-github"
+        },
+        {
+          "name": "codeforces",
+          "url": "https://codeforces.com/profile/grv_up",
+          "className": "custom-codeforces"
+        },
+        {
+          "name": "leetcode",
+          "url": "https://leetcode.com/u/grv_up/",
+          "className": "custom-leetcode"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "I am well versed in using MERN Stack along with Django and Typescript",
+      "education": [
+        {
+          "school": "PDPM IIITDM Jabalpur",
+          "degree": "Bachelors of technology in Computer Science",
+          "graduated": "Nov 2022 - June 2026",
+          "description": "CPI - 8.3"
+        }
+      ]
+      
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "getH",
+          "category": "Houshold hire worker website built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+          "image": "geth-logos.jpeg",
+          "url": "https://drive.google.com/drive/u/0/folders/1xuI28I0BeK5DSWgQGJvNI8RP88WXHczL"
+        },
+        {
+          "title": "Trademate",
+          "category": "Stock predition website built with Typescript and Django",
+          "image": "business-8256830.jpg",
+          "url": "https://drive.google.com/drive/u/0/folders/1xuI28I0BeK5DSWgQGJvNI8RP88WXHczL"
+        },
+        {
+          "title": "Trex-runner Game",
+          "category": "Trex-runner game built with java",
+          "image": "trex.png",
+          "url": "https://drive.google.com/drive/u/0/folders/1xuI28I0BeK5DSWgQGJvNI8RP88WXHczL"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "I've known gaurav for 2 years and all I can say he is a good web developer",
+          "user": "Anitesh Pandey"
+        },
+        {
+          "text": "Yeah the guy's is good in development, still managing in CP",
+          "user": "Abhyuday Singh"
+        }
+      ]
+    }
+  }
+  
